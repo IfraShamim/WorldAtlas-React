@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "population": 241499431,
+      "interestingFact": "Pakistan has the world's largest canal-based irrigation system."
+    },
+    {
+      "id": 2,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331893745,
+      "interestingFact": "The U.S. has no official language at the federal level."
+    },
+    {
+      "id": 3,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125502000,
+      "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 4,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83240000,
+      "interestingFact": "Germany is home to over 1,500 different types of sausages."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 214300000,
+      "interestingFact": "Brazil is the only country in South America that speaks Portuguese."
+    },
+    {
+      "id": 6,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38922000,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26141000,
+      "interestingFact": "Australia has more kangaroos than people."
+    },
+    {
+      "id": 8,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67413000,
+      "interestingFact": "France produces over 1,500 types of cheese."
+    },
+    {
+      "id": 9,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1428627663,
+      "interestingFact": "India is the world's largest democracy."
+    },
+    {
+      "id": 10,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+      "population": 60042000,
+      "interestingFact": "South Africa has three capital cities."
+    }
+  ]
+  
