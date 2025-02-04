@@ -9,7 +9,7 @@ const Header = () => {
     const lists = [
         { name: 'Home', path: '/' },
         { name: 'About', path: '/about' },
-        // { name: 'Country', path: '/country' },
+        // { name: 'Country', path: '/country' }
         { name: 'Contact', path: '/contact' }
     ];
 
